@@ -23,12 +23,6 @@ A comprehensive productivity dashboard that transforms your GitHub activity into
 - **🎯 Interactive Tooltips**: Detailed explanations for all metrics
 - **📊 Visual Analytics**: Charts, heatmaps, and progress indicators
 
-### 🔒 **Privacy & Security**
-
-- **🏠 Local Storage**: All credentials stored securely in your browser
-- **🚫 No Server**: Credentials never leave your device
-- **🔐 Token-based Auth**: Secure GitHub Personal Access Token authentication
-
 ## 🚀 Quick Start
 
 1. **Clone and Install**
@@ -290,16 +284,12 @@ CMD ["npm", "start"]
 - [ ] **Performance Optimization**: Virtual scrolling, lazy loading
 - [ ] **Accessibility**: Full WCAG 2.1 compliance
 
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) file for details.
-
 ## 🆘 Support
 
 - 📖 **Documentation**: Check this README and inline code comments
-- 🐛 **Bug Reports**: [Open an issue](https://github.com/your-username/daily-dashboard/issues)
-- 💡 **Feature Requests**: [Start a discussion](https://github.com/your-username/daily-dashboard/discussions)
-- 📧 **Contact**: [your-email@example.com](mailto:your-email@example.com)
+- 🐛 **Bug Reports**: [Open an issue](https://github.com/vedant-contentstack/github-activity-tracker/issues)
+- 💡 **Feature Requests**: [Start a discussion](https://github.com/vedant-contentstack/github-activity-tracker/discussions)
+- 📧 **Contact**: [karlevedant7@gmail.com](mailto:karlevedant7@gmail.com)
 
 ---
 
